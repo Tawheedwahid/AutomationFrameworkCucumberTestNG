@@ -1,0 +1,17 @@
+
+v1.0.0
+======
+Oct 7, 2018
+SOME FEATURES IN THE FRAMEWORK
+* Run the parallel Scenario on the feature file
+* Cucumber Report
+* Extent Report - Pdf Report
+* Allure Report
+* Send Mail after the run test (Report information and HTML file attachment)
+* Write Log to file
+* Record video and Screenshot test case
+* Read data test from Excel file (XLSX, CSV, JSON,...)
+* Base function in the package: utils, helpers
+* Read data test from the JSON file
+* Main keyword is WebUI
+* Sample test feature
