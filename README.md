@@ -1,4 +1,4 @@
-## Test Automation Framework Cucumber TestNG and Selenium Java building by Anh Tester
+## Test Automation Framework Cucumber TestNG and Selenium Java building
 
 ### 💥Important: when clone this repo, you should select 'Recursive' to get all submodules
 
