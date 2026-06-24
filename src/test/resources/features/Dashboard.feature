@@ -1,9 +1,9 @@
-Feature: HRM dashboard page
+Feature: HRM dashboard page information 
 
   Background: User is logged to the HRM system
     Given User logged in with email "admin_example" and password "123456"
 
-  @Regression @device_Window_11 @author_AnhTester
+  @Regression @device_Window_11 @author_AnhTester @sanity
   Scenario Outline: Open menu
     Given User navigate to dashboard
     When User click "<menu>"
